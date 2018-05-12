@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8053
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45534#Unter-Palmen-und-Buchen.-Zweiter-Band.Unter-Palmen.-Gesammelte-Erz-hlungen.
 gutenberg_issued: '2014-04-29'
 gutenberg_type: Text
 identifiers:
