@@ -1,0 +1,36 @@
+_repo: Unter-Palmen-und-Buchen.-Zweiter-Band.Unter-Palmen.-Gesammelte-Erz-hlungen._45534
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45534-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstacker, Friedrich
+    - Gerstaecker, Frederick
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2014-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45534'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 19th century'
+- !lcsh 'Short stories, German'
+- !lcc 'PT'
+tableOfContents: Das Klima der Tropen -- El Comisario -- Am Cachavi -- Der Tiger --
+  Negerleben.
+title: 'Unter Palmen und Buchen. Zweiter Band.
+
+  Unter Palmen. Gesammelte Erzählungen.'
+url: http://www.gutenberg.org/ebooks/45534
